@@ -1,0 +1,3 @@
+# FragmentAnimationBugRepro
+
+![](sample.gif)
